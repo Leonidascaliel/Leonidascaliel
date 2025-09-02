@@ -1,6 +1,7 @@
 Hi, I'm Leonidas Caliel, creator of programming and technology content! - SWE
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonidasCaliel&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevamwiu&show_icons=true&theme=dark#gh-dark-mode-only"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leonidas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
