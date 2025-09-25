@@ -1,4 +1,6 @@
-Hi, I'm Leonidas Caliel, creator of programming and technology content! - SWE
+Hi, I'm Leonidas Caliel, 
+Data Analyst & Developer - Front-end. Always learning, always building. 💻
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonidasCaliel&show_icons=true&theme=tokyonight)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidasCaliel&show_icons=true&theme=dark#gh-dark-mode-only"/>
