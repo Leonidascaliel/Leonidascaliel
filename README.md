@@ -13,6 +13,8 @@ Data Analyst & Developer - Front-end. Always learning, always building. 💻
   <img align="center" alt="Leonidas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
 
+##
+
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
   
 ##
