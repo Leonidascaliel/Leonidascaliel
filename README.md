@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/mnt/data/A_personal_README_profile_image_showcases_Leonidas.png" alt="Leonidas Caliel - Banner" width="100%" style="max-height:300px; object-fit:cover; border-radius:12px;" />
+  <img width="1584" height="396" alt="Startup - Leonidas caliel" src="https://github.com/user-attachments/assets/5ccbfeb5-b911-4f14-8d6f-8e554770c9b1" />
 </div>
 
 ## 👋 Hi, I'm **Leonidas Caliel**
