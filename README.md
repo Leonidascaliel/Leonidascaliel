@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm **Leonidas Caliel**
-### 📊 Data Analyst & 💻 Fullstack Developer  
+### Data Analyst & Fullstack Developer  
 Always learning, always building.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonidasCaliel&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -14,7 +14,7 @@ Always learning, always building.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
