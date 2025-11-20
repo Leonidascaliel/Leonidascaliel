@@ -16,7 +16,7 @@ Data Analyst & Developer - Front-end. Always learning, always building. 💻
 ##
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-  
+
 ##
 
 <a href="https://instagram.com/leonidas.swe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
