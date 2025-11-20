@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm **Leonidas Caliel**
-### 📊 Data Analyst & 💻 Front-end Developer  
+### 📊 Data Analyst & 💻 FullStack Developer  
 Always learning, always building.
 
 ---
