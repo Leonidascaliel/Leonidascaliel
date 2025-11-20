@@ -7,9 +7,9 @@ Always learning, always building.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonidasCaliel&show_icons=true&theme=tokyonight&hide_border=true&title_color=9D00FF&icon_color=9D00FF&text_color=ffffff"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidasCaliel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=9D00FF&icon_color=9D00FF&text_color=ffffff"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeonidasCaliel&theme=tokyonight&hide_border=true&ring=9D00FF&fire=9D00FF&currStreakLabel=9D00FF"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonidasCaliel&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidasCaliel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeonidasCaliel&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -29,13 +29,13 @@ Always learning, always building.
 ## 🌐 Social
 
 <a href="https://instagram.com/leonidas.swe" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%239D00FF?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/-Instagram-%238A2BE2?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a href="https://www.twitch.tv/leonidascaliel" target="_blank">
-  <img src="https://img.shields.io/badge/Twitch-%239D00FF?style=for-the-badge&logo=twitch&logoColor=white">
+  <img src="https://img.shields.io/badge/Twitch-%238A2BE2?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/leonidascaliel" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%239D00FF?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/-LinkedIn-%238A2BE2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
