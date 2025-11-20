@@ -1,5 +1,6 @@
-[![MasterHead](<img width="1584" height="396" alt="Startup - Leonidas caliel" src="https://github.com/user-attachments/assets/2cf3700b-97ed-4216-8d76-6d89a74e5ee8" />
-)](https://github.com/Leonidascaliel)
+<div align="center">
+  <img src="/mnt/data/A_personal_README_profile_image_showcases_Leonidas.png" alt="Leonidas Caliel - Banner" width="100%" style="max-height:300px; object-fit:cover; border-radius:12px;" />
+</div>
 
 ## 👋 Hi, I'm **Leonidas Caliel**
 ### Data Analyst & Fullstack Developer  
