@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1584" height="396" alt="Startup - Leonidas caliel" src="https://github.com/user-attachments/assets/5ccbfeb5-b911-4f14-8d6f-8e554770c9b1" />
+  <img width="1584" height="396" alt="Startup - Leonidas caliel (2)" src="https://github.com/user-attachments/assets/ae38ac39-5b30-4f3b-ab15-f27f1cccd014" />
 </div>
 
 ## 👋 Hi, I'm **Leonidas Caliel**
