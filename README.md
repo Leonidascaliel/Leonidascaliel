@@ -11,8 +11,11 @@ Always learning, always building.
 ## GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonidasCaliel&show_icons=true&theme=dracula&hide_border=true"/>
+  <ln><img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonidasCaliel&show_icons=true&theme=dracula&hide_border=true"/>
+  </ln>
+  <ln>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidasCaliel&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  </ln>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeonidasCaliel&theme=dracula&hide_border=true"/>
 </div>
 
