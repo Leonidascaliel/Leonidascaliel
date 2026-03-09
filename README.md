@@ -2,7 +2,7 @@
   <img width="1584" height="396" alt="Startup - Leonidas caliel (2)" src="https://github.com/user-attachments/assets/ae38ac39-5b30-4f3b-ab15-f27f1cccd014" />
 </div>
 
-## 👋 Hi, I'm **Leonidas Caliel**
+## 👋 Hi, I'm **Leonidas Caliel** 😊
 ### Data Analyst & Fullstack Developer  
 Always learning, always building.
 
@@ -11,11 +11,13 @@ Always learning, always building.
 ## GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonidasCaliel&show_icons=true&theme=dracula&hide_border=true"/><br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidasCaliel&layout=compact&langs_count=8&theme=dracula&hide_border=true"/><br>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeonidasCaliel&theme=dracula&hide_border=true"/>
+<a href="https://github.com/Leonidascaliel">
+  <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=Leonidascaliel&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/Leonidascaliel">
+  <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Leonidascaliel&layout=donut" />
+</a>
 </div>
-
 ---
 
 ## Tech Stack
